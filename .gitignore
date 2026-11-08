@@ -1,0 +1,17 @@
+# KiCad local settings and lock files
+*.kicad_prl
+*.lck
+
+# Local history and recovery copies
+.history/
+_restore_backup_*/
+*-backups/
+_autosave-*
+
+# OS metadata
+Thumbs.db
+.DS_Store
+
+# Local manufacturing exports and reference downloads
+manufacturing/
+WE_629105150521_CAD_files/
